@@ -30,11 +30,13 @@ pas ces résultats de courses.
 Sous Windows, il est conseillé d'utiliser xampp(php7)
 Sous Ubuntu, il est conseillé d'utiliser lampp(php7) 
 
+## Pour télécharger cette application:
+
+Pour toutes les informations relatives à ce projet ainsi que les codes sources, veuillez consulter ce lien:
+- https://forge.univ-lyon1.fr/p1707606/projetbdw
+
 
 ## Réalisé par :
  -	BASSIOUNY Mohamed p1707606
  -	MESSOUD Mohamed Salem p1714033
 
-
-Pour toutes les informations relatives à ce projet ainsi que les codes sources, veuillez consulter ce lien:
-- https://forge.univ-lyon1.fr/p1707606/projetbdw
